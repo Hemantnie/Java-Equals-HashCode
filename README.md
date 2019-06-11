@@ -3,4 +3,8 @@ This projects demonstrates the use of overriding Equals and HashCode in a core J
 
 Self Project to teach myself how and why to override equals and hashcode 
 
+Steps to execute:
+1) run Practice/bin/com/practice/HashcodeAndEqualsPractice.class
+
+
 Happy Coding
