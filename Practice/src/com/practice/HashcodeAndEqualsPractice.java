@@ -12,7 +12,7 @@ public class HashcodeAndEqualsPractice {
 		System.out.println("Hashcode of duke:"+ duke.hashCode());
 		System.out.println("Hashcode of ktm:"+ ktm.hashCode());
 		System.out.println("ktm.equals(duke):"+ktm.equals(duke));
-		System.out.println("cbr.equals(duke):"+ktm.equals(duke));
+		System.out.println("cbr.equals(duke):"+cbr.equals(duke));
 	}
 
 }
